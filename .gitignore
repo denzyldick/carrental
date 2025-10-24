@@ -1,0 +1,16 @@
+api/.env.local
+api/.env.local.php
+api/.env.*.local
+api/config/secrets/prod/prod.decrypt.private.php
+api/var/
+api/public/bundles/
+api/vendor/
+api/.docker/
+
+.docker/
+client/node_modules/
+npm-debug.log
+yarn-error.log
+
+api/phpunit.xml
+api/.phpunit.cache/
