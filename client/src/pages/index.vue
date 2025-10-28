@@ -9,11 +9,11 @@
     </v-navigation-drawer>
 
     <v-main class="d-flex">
-        <CarList/>
+      <CarList />
     </v-main>
   </v-layout>
 </template>
 
 <script setup>
-  //
+//
 </script>
